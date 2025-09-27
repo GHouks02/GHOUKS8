@@ -1,0 +1,5 @@
+{
+  "name": "Photo Editor Finder",
+  "description": "An intelligent web application that uses Gemini to find the best online photo editing tools based on your needs. It provides a curated list of websites and apps, detailing their features, pricing, and ease of use.",
+  "requestFramePermissions": []
+}
